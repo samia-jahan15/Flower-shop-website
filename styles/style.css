@@ -1,0 +1,125 @@
+/* header section css */
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-section{
+    display: flex;
+    background-color: #E554731A;
+}
+.header-info{
+margin:60px 172px 0px 140px ;
+}
+.header-title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+}
+.header-details{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.button-primary{
+border: none;
+border-radius: 5px;
+padding: 20px 43px;
+font-size: 20px;
+font-weight: 700;
+color: white;
+background-color: rgba(229, 84, 115, 1);
+}
+.header-img{
+    width: 535px;
+    /* margin: 50px 140px 0px 95px;  */
+    padding: 80px;
+    padding-bottom: 0px;
+    height: 800px;
+}
+
+/* our featured flower section css starts here */
+.featured-flower-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-top: 30px;
+}
+.featured-flower-details{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.flowers{
+    display: flex;
+    gap: 24px;
+   padding: 240px 240px;
+   padding-top: 20px;
+}
+.flower-one{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px;
+text-align: center;
+}
+.bouqet-one{
+    padding: 110px 78px 0px 76px;
+}
+
+.flower-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+text-align: center;
+}
+.bouqet-two{
+    padding: 117px 47px 51px 47px;
+}
+.flower-three{
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+text-align: center;
+}
+.bouqet-three{
+    padding: 67px 75px 0px 75px;
+}
+
+/* <!-- why buy from us section css starts here --> */
+.reasons{
+    display: flex;
+    height: 320px;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin-left: 240px ;
+margin-right: 240px ;
+padding-left: 240px;
+box-shadow: #272727;
+
+
+}
+.reason-one{
+    padding: 117px 47px 51px 47px;
+    text-align: center;
+
+}
+.reason-two{
+    padding: 117px 47px 51px 47px;
+    text-align: center;
+
+}
+.reason-three{
+    padding: 117px 47px 51px 47px;
+    text-align: center;
+
+}
+/* sale section css starts here */
+
+
+
