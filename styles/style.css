@@ -157,7 +157,106 @@ height: 420px;
     padding: 80px;
     padding-right: 350px;
 }
+/*  instagram section css starts here  */
+.insta-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-top: 100px;
+}
+.insta-info{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.insta-images{
+    width: 342px;
+height: 396px;
+display: flex;
+margin-top: 50px;
 
+}
+.insta-image-one{
+    padding: 25px;
+    padding-top: 0;
+    padding-left:180px ;
+}
+.insta-image-two{
+    padding: 25px;
+    padding-top: 0;
+}
+.insta-image-three{
+    padding: 25px;
+    padding-top: 0;
+}
+.insta-image-four{
+    padding: 25px;
+    padding-top: 0;
+    padding-right:140px ;
+}
 
+/* subscribe section css starts here */
+.deals-section{
+    background-image: url('../images/Rectangle\ 9.png');
+    margin-top: 50px;
+    padding: 45px;
+    background-repeat: no-repeat; 
+    background-position: center;
+}
 
+.deals-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-top: 50px;
+}
+.deals-info{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+#email{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+border: none;
+margin-left: 500px;
+margin-top: 80px;
+}
+#submit{
+    border-radius: 8px;
+    width: 150px;
+    height: 64px;
+    margin: 25px;
+}
+/* footer section css starts here */
+.footer{
+   color: rgba(255, 255, 255, 1);
+   background-color: #111010;
+      text-align: center;
+      padding: 210px 649px 179px 648px ;
+      margin-top:80px;
+}
+.footer-title{
+font-size: 48px;
+font-weight: 800;
+}
+.footer-details{
+    width: 625px;
+line-height: 30px;
+color:  rgba(255, 255, 255, 0.90);
+}
+.copy-right{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+}
 
